@@ -1,4 +1,4 @@
-## Olá meu nome é Railan Andrade Bandeira, Tenho 17 anos e sou estudante de programação, atualmente estudo Front-end na linguagem JavaScript sempre evoluindo cada dia mais e desejo virar full - stack para mais possibilidades de emprego
+## Olá meu nome é Railan Andrade Bandeira, Tenho 17 anos e sou estudante de programação, atualmente estudo Front-end na linguagem JavaScript sempre evoluindo cada dia mais
 <div style="display: inline_block"><br>
   <img align="center" alt="Isac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
